@@ -22,6 +22,7 @@ It is intended for research, data analysis, or quality monitoring purposes.
 - Translation using `googletrans` (or a patched `google-trans-lzx`)
 - Automatic CSV backup in an `old/` folder
 - User-agent randomization to reduce bot detection
+- Randomized pauses after a batch to reduce bot detection
 
 ## Requirements
 
